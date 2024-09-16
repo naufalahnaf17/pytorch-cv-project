@@ -4,6 +4,10 @@
 
 This project focuses on **computer vision** classification using a dataset of cats and dogs. The main goal is to build and fine-tune a deep learning model to classify images into two categories: cats and dogs. The dataset used for this task contains images of cats and dogs in various environments and poses.
 
+## Screenshot
+![Pred_1](screenshot/save_1.PNG)
+![Pred_2](screenshot/save_1.PNG)
+
 ## Project Structure
 
 - **datasets.py**: Scripts and methods for downloading, unzipping, preparing the dataset and Image preprocessing techniques to ensure that images are in the correct format and size for the model.
