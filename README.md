@@ -41,11 +41,22 @@ which initially google/vit-base-patch16-224 outputs approximately 1000 classes i
 
 ![Pred_1](plant-species-classification/screenshot/save_1.JPG)
 
-#### Todo List 
-- ~~Fine Tune Resnet-50 with cats and dogs dataset (2 class)~~ :white_check_mark:
-- ~~Fine Tune google/vit-base-patch16-224 with house plant species dataset (47 class)~~ :white_check_mark:
-- Fine Tune Faster-RCNN with face mask dataset (3 class) :x:
-- Fine Tune YOLOV10 with manga text detection dataset (2 class) :x:
+## Todo List 
+- [x] Fine tune resnet-50 on the cats and dogs dataset
+  - [x] Create inference with opencv and onnxruntime (python)
+  - [ ] Create inference with node.js and onnxruntime-node
+  - [ ] Create Inference with kotlin
+- [x] Fine tune vit-base-224 on the plant species dataset
+  - [x] Create inference with opencv and onnxruntime (python)
+  - [ ] Create inference with node.js and onnxruntime-node
+  - [ ] Create Inference with kotlin
+- [ ] Fine tune Faster-RCNN on the face mask dataset
+  - [ ] Create inference with opencv and onnxruntime (python)
+  - [ ] Create inference with node.js and onnxruntime-node
+- [ ] Fine tune YOLO-V10 on the manga text detection dataset
+  - [ ] Create inference with opencv and onnxruntime (python)
+  - [ ] Create inference with node.js and onnxruntime-node
+  - [ ] Create Inference with kotlin and run with input uint8
 
 
 ## Authors
