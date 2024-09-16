@@ -6,7 +6,7 @@ This project focuses on **computer vision** classification using a dataset of ca
 
 ## Screenshot
 ![Pred_1](screenshot/save_1.PNG)
-![Pred_2](screenshot/save_1.PNG)
+![Pred_2](screenshot/save_2.PNG)
 
 ## Project Structure
 
