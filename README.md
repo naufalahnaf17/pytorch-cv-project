@@ -1,6 +1,10 @@
 # Computer Vision Project
 
-These are some mini projects that I made using Pytorch for computer vision assignments
+These are some mini projects I created using Pytorch for computer vision tasks
+
+in this repo I will create a mini project with various tasks in computer vision such as image classification, object detection, object segmentation, GAN and many more
+
+add a star to get updates from this repo
 
 #### Repo Update
 - **17 Sep 2024 -> plant-species-classification**
