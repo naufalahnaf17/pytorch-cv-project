@@ -2,6 +2,10 @@
 
 These are some mini projects that I made using Pytorch for computer vision assignments
 
+#### Repo Update
+- **17 Sep 2024 -> plant-species-classification**
+- **16 Sep 2024 -> cat-and-dogs-classification**
+
 ## cat-and-dogs-classification (Created : 16-09-2024)
 
 in this project, I focused on fine-tune the resnet-50 model then exported it to onnx format.
@@ -26,3 +30,8 @@ which initially google/vit-base-patch16-224 outputs approximately 1000 classes i
 
 ![Pred_1](plant-species-classification/screenshot/save_1.JPG)
 
+#### Todo List 
+- ~~Fine Tune Resnet-50 with cats and dogs dataset (2 class)~~ :white_check_mark:
+- ~~Fine Tune google/vit-base-patch16-224 with house plant species dataset (47 class)~~ :white_check_mark:
+- Fine Tune Faster-RCNN with face mask dataset (3 class) :x:
+- Fine Tune YOLOV10 with manga text detection dataset (2 class) :x:
