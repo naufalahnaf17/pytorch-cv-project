@@ -28,7 +28,7 @@ The dataset used in this project is the [Cats and Dogs dataset](https://www.kagg
 To run this project, ensure you have the following dependencies installed:
 Install the required packages using `pip`:
 
-    pip install requirements.txt
+    pip install -r requirements.txt
 
 Training Model 
 

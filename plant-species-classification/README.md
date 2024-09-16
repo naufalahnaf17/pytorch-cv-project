@@ -27,7 +27,7 @@ The dataset used in this project is the [House Plant Species](https://www.kaggle
 To run this project, ensure you have the following dependencies installed:
 Install the required packages using `pip`:
 
-    pip install requirements.txt
+    pip install -r requirements.txt
 
 Training Model 
 
