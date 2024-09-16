@@ -34,7 +34,7 @@ Training Model
 
     python train.py
 
-Inference Model Trained (make sure training is complete so model auto save with model name "cats-and-dogs.onnx")
+Inference Model Trained (make sure training is complete so model auto save with model name "cat-and-dogs.onnx")
 
     python main.py
 
