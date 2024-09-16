@@ -2,7 +2,7 @@
 
 These are some mini projects that I made using Pytorch for computer vision assignments
 
-## cat-and-dogs-classification
+## cat-and-dogs-classification (Created : 16-09-2024)
 
 in this project, I focused on fine-tune the resnet-50 model then exported it to onnx format.
 
