@@ -1,0 +1,5 @@
+**/__pycache__
+**/.plan-species-env
+**/data
+plant-classification.onnx
+**/.vscode
