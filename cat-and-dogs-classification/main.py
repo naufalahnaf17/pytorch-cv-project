@@ -28,7 +28,12 @@ def main(session):
     
     # show images pred with matplotlib (you can also use cv2.imshow)
     plt.figure()
+    plt.subplot(1,2,1)
     plt.imshow(image.squeeze(0).transpose(1,2,0))
+    plt.axis("off")
+    plt.title(f"Pred : {labels[pred[0].argmax(1).item()]}")
+    plt.subplot(1,2,2)
+    plt.imshow(test_data[0][0])
     plt.axis("off")
     plt.title(f"Pred : {labels[pred[0].argmax(1).item()]}")
     plt.show()
