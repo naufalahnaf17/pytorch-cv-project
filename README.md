@@ -50,10 +50,10 @@ which initially google/vit-base-patch16-224 outputs approximately 1000 classes i
   - [x] Create inference with opencv and onnxruntime (python)
   - [ ] Create inference with node.js and onnxruntime-node
   - [ ] Create Inference with kotlin
-- [ ] Fine tune Faster-RCNN on the face mask dataset
+- [ ] Fine tune Faster-RCNN on the manga text detection dataset
   - [ ] Create inference with opencv and onnxruntime (python)
   - [ ] Create inference with node.js and onnxruntime-node
-- [ ] Fine tune YOLO-V10 on the manga text detection dataset
+- [ ] Fine tune YOLO-V10 on the facemask dataset
   - [ ] Create inference with opencv and onnxruntime (python)
   - [ ] Create inference with node.js and onnxruntime-node
   - [ ] Create Inference with kotlin and run with input uint8
