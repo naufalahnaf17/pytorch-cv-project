@@ -1,0 +1,4 @@
+**/__pycache__
+**/.manga-text-env
+**/data
+manga-text-detection.onnx
