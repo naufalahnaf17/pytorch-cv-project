@@ -17,7 +17,7 @@ add a star to get updates from this repo
 | ----------------- | ------------------------------------------------------------------ |
 | Cat and Dogs | [click here to download](https://drive.google.com/file/d/1Tfh30c0BShuSTTpvgeCYBHK2aZdkhjV0/view?usp=drive_link) |
 | Plant Species | [click here to download](https://drive.google.com/file/d/1OYLj2TIK2oTglLJMRt2t7BW2tGLM6178/view?usp=drive_link) |
-| Manga Text | [click here to download](https://drive.google.com/file/d/1OYLj2TIK2oTglLJMRt2t7BW2tGLM6178/view?usp=drive_link) |
+| Manga Text | [click here to download](https://drive.google.com/file/d/1kI_RXo2hoQ9fQWU3CcB1wrw3-CFOfKe4/view?usp=drive_link) |
 
 ## cat-and-dogs-classification (Created : 16-09-2024)
 
