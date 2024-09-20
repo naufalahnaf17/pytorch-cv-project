@@ -7,6 +7,7 @@ in this repo I will create a mini project with various tasks in computer vision 
 add a star to get updates from this repo
 
 #### Repo Update
+- **20 Sep 2024 -> facemask-detection**
 - **17 Sep 2024 -> manga-text-detection**
 - **17 Sep 2024 -> plant-species-classification**
 - **16 Sep 2024 -> cat-and-dogs-classification**
@@ -18,6 +19,7 @@ add a star to get updates from this repo
 | Cat and Dogs | [click here to download](https://drive.google.com/file/d/1Tfh30c0BShuSTTpvgeCYBHK2aZdkhjV0/view?usp=drive_link) |
 | Plant Species | [click here to download](https://drive.google.com/file/d/1OYLj2TIK2oTglLJMRt2t7BW2tGLM6178/view?usp=drive_link) |
 | Manga Text | [click here to download](https://drive.google.com/file/d/1kI_RXo2hoQ9fQWU3CcB1wrw3-CFOfKe4/view?usp=drive_link) |
+| Facemask Detection | [click here to download](https://drive.google.com/file/d/1J2AKUaLGDlDAXvZCgUNtsz-Hhyqw7EVv/view?usp=drive_link) |
 
 ## cat-and-dogs-classification (Created : 16-09-2024)
 
