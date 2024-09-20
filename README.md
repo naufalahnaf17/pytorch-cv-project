@@ -58,6 +58,21 @@ create object detection on text in manga pages with the manga-text-detection dat
 ![Pred_1](manga-text-detection/screenshot/save_1.JPG)
 ![Pred_2](manga-text-detection/screenshot/save_2.JPG)
 
+## facemask-detection (Created : 20-09-2024)
+
+in this project, I focused on fine-tune the YOLOv10 model then exported it to onnx format.
+
+create object detection on facemask-dataset
+
+- Loss : 0.405800
+- Epochs : 50
+- MAP : 0.908
+- MAP-50 : 0.934
+- MAP-75 : 0.666
+
+![Pred_1](facemask-detection/screenshot/save_1.JPG)
+![Pred_2](facemask-detection/screenshot/save_2.JPG)
+
 ## Todo List 
 - [x] Fine tune resnet-50 on the cats and dogs dataset
   - [x] Create inference with opencv and onnxruntime (python)
@@ -70,8 +85,8 @@ create object detection on text in manga pages with the manga-text-detection dat
 - [x] Fine tune Faster-RCNN on the manga text detection dataset
   - [x] Create inference with opencv and onnxruntime (python)
   - [ ] Create inference with node.js and onnxruntime-node
-- [ ] Fine tune YOLO-V10 on the facemask dataset
-  - [ ] Create inference with opencv and onnxruntime (python)
+- [x] Fine tune YOLO-V10 on the facemask dataset
+  - [x] Create inference with opencv and onnxruntime (python)
   - [ ] Create inference with node.js and onnxruntime-node
   - [ ] Create Inference with kotlin and run with input uint8
 

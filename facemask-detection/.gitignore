@@ -1,0 +1,6 @@
+**/__pycache__
+**/.facemask-env
+**/runs
+**/data
+**/facemask-dataset
+yolov10n.pt
