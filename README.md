@@ -33,8 +33,6 @@ which initially resnet-50 outputs approximately 1000 classes into just 2 classes
 - Epochs : 5
 
 ![Pred_3](cat-and-dogs-classification/screenshot/save_3.PNG)
-![Pred_4](cat-and-dogs-classification/screenshot/save_4.JPG)
-![Pred_5](cat-and-dogs-classification/screenshot/save_5.JPG)
 
 ## plant-species-classification (Created : 17-09-2024)
 
