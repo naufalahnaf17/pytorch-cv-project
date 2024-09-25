@@ -7,6 +7,7 @@ in this repo I will create a mini project with various tasks in computer vision 
 add a star to get updates from this repo
 
 #### Repo Update
+- **26 Sep 2024 -> inference next js plant-species-classification**
 - **25 Sep 2024 -> inference next js cat-and-dogs-classification**
 - **20 Sep 2024 -> facemask-detection**
 - **17 Sep 2024 -> manga-text-detection**
@@ -83,7 +84,7 @@ create object detection on facemask-dataset
   - [ ] Create Inference with kotlin
 - [x] Fine tune vit-base-224 on the plant species dataset
   - [x] Create inference with opencv and onnxruntime (python)
-  - [ ] Create inference with next.js and onnxruntime-web
+  - [x] Create inference with next.js and onnxruntime-web
   - [ ] Create Inference with kotlin
 - [x] Fine tune Faster-RCNN on the manga text detection dataset
   - [x] Create inference with opencv and onnxruntime (python)
