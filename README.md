@@ -7,6 +7,7 @@ in this repo I will create a mini project with various tasks in computer vision 
 add a star to get updates from this repo
 
 #### Repo Update
+- **25 Sep 2024 -> inference next js cat-and-dogs-classification**
 - **20 Sep 2024 -> facemask-detection**
 - **17 Sep 2024 -> manga-text-detection**
 - **17 Sep 2024 -> plant-species-classification**
@@ -32,6 +33,8 @@ which initially resnet-50 outputs approximately 1000 classes into just 2 classes
 - Epochs : 5
 
 ![Pred_3](cat-and-dogs-classification/screenshot/save_3.PNG)
+![Pred_4](cat-and-dogs-classification/screenshot/save_4.JPG)
+![Pred_5](cat-and-dogs-classification/screenshot/save_5.JPG)
 
 ## plant-species-classification (Created : 17-09-2024)
 
@@ -78,18 +81,18 @@ create object detection on facemask-dataset
 ## Todo List 
 - [x] Fine tune resnet-50 on the cats and dogs dataset
   - [x] Create inference with opencv and onnxruntime (python)
-  - [ ] Create inference with node.js and onnxruntime-node
+  - [x] Create inference with next.js and onnxruntime-web
   - [ ] Create Inference with kotlin
 - [x] Fine tune vit-base-224 on the plant species dataset
   - [x] Create inference with opencv and onnxruntime (python)
-  - [ ] Create inference with node.js and onnxruntime-node
+  - [ ] Create inference with next.js and onnxruntime-web
   - [ ] Create Inference with kotlin
 - [x] Fine tune Faster-RCNN on the manga text detection dataset
   - [x] Create inference with opencv and onnxruntime (python)
-  - [ ] Create inference with node.js and onnxruntime-node
+  - [ ] Create inference with next.js and onnxruntime-web
 - [x] Fine tune YOLO-V10 on the facemask dataset
   - [x] Create inference with opencv and onnxruntime (python)
-  - [ ] Create inference with node.js and onnxruntime-node
+  - [ ] Create inference with next.js and onnxruntime-web
   - [ ] Create Inference with kotlin and run with input uint8
 
 
